@@ -14,3 +14,4 @@ This project aims to detect and prevent malpractice during online exams by lever
 <br><br>
 For each of the detection, a warning is displayed on the screen like a number of strikes in a baseball game.
 <br>Once the candidate crosses a certain number of threshold warnings (here, its set to 3), it displays 'MALPRACTICE DETECTED' and closes the exam window and exits the camera.
+
